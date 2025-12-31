@@ -2,7 +2,8 @@
 #### I am using chrome broswer, you can also use this in other broswer, same setting will be their , but some ui changes
 
 ## 1. Open Follwing url
-```chrome://extensions```
+```url
+chrome://extensions```
 
 ## 2. Enable Developer Option (On Top Right Corner)
 
