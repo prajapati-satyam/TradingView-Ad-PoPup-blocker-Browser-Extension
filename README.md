@@ -3,7 +3,8 @@
 
 ## 1. Open Follwing url
 ```url
-chrome://extensions```
+chrome://extensions
+```
 
 ## 2. Enable Developer Option (On Top Right Corner)
 
