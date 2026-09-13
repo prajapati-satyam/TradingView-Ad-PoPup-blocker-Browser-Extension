@@ -3,7 +3,12 @@
   "name": "Trading view add pop up remover",
   "version": "1.0",
   "description": "This is extension remove pop add from Trading view",
-
+  "icons": {
+    "16": "./tradingview.png",
+    "32": "./tradingview.png",
+    "48": "./tradingview.png",
+    "128": "./tradingview.png"
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
